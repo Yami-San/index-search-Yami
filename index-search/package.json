@@ -1,0 +1,22 @@
+{
+  "name": "index-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yami-San/index-search-Yami.git"
+  },
+  "author": "Jean Marco Pedraza Zapata (Yami-San)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yami-San/index-search-Yami/issues"
+  },
+  "homepage": "https://github.com/Yami-San/index-search-Yami#readme",
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
