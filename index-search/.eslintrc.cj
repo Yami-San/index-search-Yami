@@ -1,11 +1,13 @@
 module.exports = {
   env: {
+    browser: true,
     es2021: true,
     node: true
   },
   extends: [
-    'standard',
-    'plugin:react/recommended'
+    'plugin:react/recommended',
+    'plugin:react/jsx-runtime',
+    'standard'
   ],
   overrides: [
     {

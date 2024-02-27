@@ -1,0 +1,14 @@
+.top-header{
+  display: flex;
+  height: 90px;
+  position: fixed;
+  width: 100%;
+}
+
+.logo-app{
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+}
+
+
