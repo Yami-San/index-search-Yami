@@ -2,9 +2,9 @@ import './App.css'
 
 export function App () {
   return (
-    <section className='top-header'>
-      <img className='logo-app' src='https://unavatar.io/github/Yami-San' />
-    </section>
+    <h1 className='text-3xl font-bold underline text-red-300 text-center'>
+      Hello world!
+    </h1>
   )
 }
 

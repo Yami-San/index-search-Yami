@@ -2,13 +2,41 @@
   display: flex;
   height: 90px;
   position: fixed;
+  justify-content: center;
+  align-items: center;
   width: 100%;
+  border-bottom: double #EE7B30;
 }
+
 
 .logo-app{
   height: 70px;
   width: 70px;
   margin: 10px;
+  position: absolute;
+  left: 0cqw;
 }
 
+.name-app{
+  height: 70px;
+  width: 70px;
+  margin: 10px;
+  position: absolute;
+  justify-self: center;
+  align-self: center;
+  color: #c9d0d4; 
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
 
+.login-app {
+  right: 50px;
+  height: 70px;
+  position: absolute;
+}
+
+.text-input {
+  width: 30vh;
+  height: 30px;
+}
