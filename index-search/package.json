@@ -9,8 +9,11 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "dependencies": {
+  "dependencies": {  
+    "@nextui-org/avatar": "^2.0.24",
     "@nextui-org/button": "^2.0.26",
+    "@nextui-org/link": "^2.0.26",
+    "@nextui-org/navbar": "^2.0.27",
     "@nextui-org/react": "^2.2.9",
     "cors": "^2.8.5",
     "express": "^4.18.2",
